@@ -1,5 +1,11 @@
 import "./pages/dateCalc.js";
 import "./pages/timer.js"
+//import SlimeSrc from "../Slime.png"
+import "../css/style.scss"
+import mp3 from '../audio/teddy_alert.mp3'
+ 
+//console.log(SlimeSrc);
+console.log(mp3)
 
 const button1 = document.querySelector('.button-1');
 const button2 = document.querySelector('.button-2');
